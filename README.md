@@ -1,3 +1,7 @@
+CLEYTON ENRIKE DE OLIVEIRA – RM 560485
+MATHEUS HENRIQUE NASCIMENTO DE FREITAS – RM 560442
+MATHEUS PINHEIRO ERMACORA MARTIN – RM 557720
+
 Nesse repositório estão os arquivos em PDF das telas a serem usadas no site.
 
 A ideia é desenvolver um serviço de atendimento personalizado nas estações da linha 8 e 9, utilizando uma assistente virtual com inteligência artificial. Essa assistente seria capaz de entender as necessidades de cada passageiro e fornecer informações precisas e detalhadas sobre as melhores rotas dentro do sistema metroviário.
